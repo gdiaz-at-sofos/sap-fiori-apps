@@ -1,0 +1,16 @@
+{
+  "name": "sap-fiori-apps",
+  "version": "0.0.1",
+  "description": "A CAP project for SAP Fiori Elements apps",
+  "dependencies": {
+    "@sap/cds": "^9.7.1",
+    "express": "^4.22.1"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^2.1.3"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  },
+  "private": true
+}
